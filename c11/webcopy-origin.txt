@@ -1,0 +1,76 @@
+Uri: https://agoranovo.site/c11/
+File Name: C:\Downloaded Web Sites\agoranovo.site\c11\index.htm
+Content Type: text/html
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://agoranovo.site/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.33.4
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://agoranovo.site/wp-content/themes/twentytwentyfive/assets/fonts/fira-code/FiraCode-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\themes\twentytwentyfive\assets\fonts\fira-code\FiraCode-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://agoranovo.site/wp-content/themes/twentytwentyfive/assets/fonts/manrope/Manrope-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\themes\twentytwentyfive\assets\fonts\manrope\Manrope-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://agoranovo.site/wp-content/themes/twentytwentyfive/style.css?ver=1.3
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\themes\twentytwentyfive\style.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/uploads/elementor/css/post-5.css?ver=1765936817
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1754622258
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1754622220
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1754622282
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://agoranovo.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://agoranovo.site/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://agoranovo.site/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\agoranovo.site\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\agoranovo.site\scripts\utms\latest.js
+Content Type: text/javascript
+
